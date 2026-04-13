@@ -1,0 +1,19 @@
+# Blackjack
+
+A JavaFX-based Blackjack game where you play against an AI opponent.
+
+## Features
+- Interactive card UI with real card images
+- Draw cards or hold your hand
+- AI opponent that automatically draws after you hold
+- Clean JavaFX interface
+
+## Technologies
+- Java
+- JavaFX
+- Maven
+
+## How to Play
+- Draw cards to get as close to 21 as possible
+- Press **Hold** to stop drawing – the AI will then play automatically
+- Whoever is closest to 21 without going over wins
